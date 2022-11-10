@@ -1,4 +1,4 @@
-# Qt-Python-simple-TCP-server-with-GUI
+# Qt Python simple TCP server with GUI
 Qt Python simple TCP server with GUI (PySide6)
 
 This is a simple TCP server supporting one connection (socket) only.
